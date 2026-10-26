@@ -198,6 +198,12 @@
     "descrizione": "Una pepita è un frammento di oro nativo, cioè oro allo stato elementare, quasi sempre con qualche percento di argento in lega. L'oro è così poco reattivo che in natura si trova soprattutto come metallo. Si deposita da fluidi caldi nei filoni di quarzo; quando la roccia viene erosa, i torrenti lo trasportano e lo accumulano nelle sabbie e nelle ghiaie, dove viene cercato con la batea. La forma di questa pepita racconta da dove viene. Non ha gli spigoli arrotondati e la superficie levigata delle pepite che hanno viaggiato a lungo tra i sassi di un fiume: è spugnosa e irregolare, con punte e piccole facce di cristalli ancora riconoscibili. L'oro è tenero, e ogni urto lo appiattisce e lo smussa; una forma così angolosa indica un trasporto breve, non lontano dalla roccia da cui si è staccata."
   },
   {
+    "codice": "AU-079-5",
+    "numero_atomico": 79,
+    "titolo": "Strisce reattive per glicemia Accu-Chek Aviva",
+    "descrizione": "Queste strisce reattive Accu-Chek Aviva misurano lo zucchero nel sangue con una minuscola cella elettrochimica, i cui elettrodi sono d'oro. Sul supporto di plastica si stende un velo d'oro sottilissimo; poi un laser ne asporta una parte e lascia soltanto il disegno degli elettrodi e delle piste, un metodo descritto nei brevetti di Roche, l'azienda che produce queste strisce. Nella goccia di sangue l'enzima glucosio deidrogenasi ossida il glucosio; gli elettroni liberati arrivano agli elettrodi attraverso una molecola che fa da mediatore, e la corrente misurata è proporzionale al glucosio presente. L'oro è il metallo adatto a questo lavoro: non si ossida, non reagisce con il sangue né con i reagenti e conduce bene la corrente, così ogni striscia dà una misura ripetibile. I contatti dorati all'estremità collegano la striscia al misuratore. Milioni di persone con il diabete usano ogni giorno strisce come queste."
+  },
+  {
     "codice": "B-005-1",
     "numero_atomico": 5,
     "titolo": "Punte da taglio in nitruro di boro cubico (c-BN)",
@@ -1258,6 +1264,12 @@
     "numero_atomico": 12,
     "titolo": "Lampadine flash al magnesio usate",
     "descrizione": "All’interno di queste lampadine si trovava un sottilissimo filo di magnesio immerso in un’atmosfera ricca di ossigeno. Al momento dello scatto, un impulso elettrico accendeva il metallo: la combustione rapidissima produceva un lampo bianco molto intenso, sufficiente a illuminare la scena per una frazione di secondo. La patina bianca oggi visibile nel vetro è in gran parte ossido di magnesio, MgO, formatosi durante la reazione. Ogni lampadina poteva essere utilizzata una sola volta, perché il metallo veniva consumato completamente. Il vetro serviva a contenere i prodotti incandescenti e sovente si deformava a causa dell'accensione, come visibile in foto."
+  },
+  {
+    "codice": "MG-012-5",
+    "numero_atomico": 12,
+    "titolo": "Magnesite dei Monti Pelati, Piemonte",
+    "descrizione": "Questo nodulo di magnesite, carbonato di magnesio (MgCO₃), viene dalla Riserva naturale dei Monti Pelati, a Baldissero Canavese, nel Torinese. Le colline sono fatte di peridotite, una roccia verde scuro che si forma nel mantello terrestre e qui affiora in superficie. Ricca di magnesio e povera di ciò che serve alle piante, rende il suolo quasi spoglio: da qui il nome «pelati». Dove l'acqua ha alterato la roccia, il magnesio si è ridepositato come carbonato in un fitto reticolo di vene, spesso accompagnate da opale. Dalla seconda metà del Settecento magnesite e olivina di questi affioramenti sono state estratte per le ceramiche e per i materiali refrattari, quelli che rivestono i forni perché resistono a temperature altissime. Raccolto da Nicolò Bagnasco e Gabriele Pastori."
   },
   {
     "codice": "MN-025-1",

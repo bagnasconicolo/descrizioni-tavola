@@ -15,4 +15,4 @@ Struttura di ogni voce:
 }
 ```
 
-393 campioni al momento dell'ultimo aggiornamento (26 ottobre 2026): tutti i campioni pubblici con la descrizione rivista.
+395 campioni al momento dell'ultimo aggiornamento (26 ottobre 2026): tutti i campioni pubblici con la descrizione rivista.
